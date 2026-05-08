@@ -7,6 +7,7 @@ body {
   padding-bottom: 80px;
   /* 한글 단어 줄바꿈 */
   word-break: keep-all;
+  
 }
 
 img {
@@ -46,6 +47,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
+  color: #444;
 }
 
 .btn {

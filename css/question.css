@@ -2,7 +2,6 @@ body {
   background-image: url('../images/questions_bg.jpg');
   background-position: top center;
   background-repeat: no-repeat;
-
 }
 
 .progress {
@@ -34,7 +33,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   box-shadow: 0 4px 25px #dde2e8;
-  
 }
 
 .question-box .number {
@@ -51,12 +49,10 @@ body {
   line-height: 1.5;
   text-align: center;
   margin-bottom: 40px;
-
 }
 
 .question-box .choice {
   font-size: 22px;
   border-radius: 120px;
   margin-bottom: 40px;
-  
 }
